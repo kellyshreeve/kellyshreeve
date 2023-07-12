@@ -2,6 +2,10 @@
 
 I hold a Master's Degree in Sociology and have been teaching statistics off-and-on for 10 years, but recently decided I wanted to get back to building projects of my own. I'm enrolled in TripleTen's 10 month data science bootcamp and hope to make a switch to a full time data science role in October. I'm looking to build data science projects, connect with other data scientists, and advance my career.
 
+### Programming Languages
+* Python
+* R
+* SQL
 
 <!--
 **kellyshreeve/kellyshreeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
