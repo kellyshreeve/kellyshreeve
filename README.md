@@ -1,6 +1,6 @@
 ### About Me
 
-I hold a Master's Degree in Sociology and have been teaching statistics off-and-on for 10 years, and I recently decided to go back to school for Data Science. I'm enrolled in TripleTen's 10 month data science bootcamp and am currently learning Python and building Machine Learning projects. I will be applying to full time data science roles at the end of October 2023. I'm looking to connect with other data scientists and advance my career.
+I hold a Master's Degree in Sociology and have been teaching statistics off-and-on for 10 years but recently decided to go back to school for Data Science. I'm enrolled in TripleTen's 10 month data science bootcamp and am currently learning Python and building Machine Learning projects. I will be applying to full time data science roles at the end of October 2023. I'm looking to connect with other data scientists and advance my career.
 
 ### Curently Working On
 ⚡ Leveling up on Python and SQL   
