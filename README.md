@@ -4,7 +4,7 @@ Data Scientist with a master's degree in Sociology and 5+ years' experience teac
 
 ### Curently Working On
 ⚡ Leveling up on Python and SQL   
-🌱 Participating in Data Visualization and Machine Learning competitions  
+🌱 Participating in data visualization and machine learning competitions  
 :bulb: Learning about unsupervised learning, nueral networks, and Bayesian approaches
 
 ### Programming Languages
