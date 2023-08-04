@@ -1,6 +1,6 @@
 ### About Me
 
-Data Scientist with a Master's Degree in Sociology and 5+ years' experience teaching statistics. After multiple years teaching, I felt the pull to build projects of my own. I'm enrolled in TripleTen's 10 month data science bootcamp and am currently learning Python and building machine learning projects. I will be applying to full time data science roles at the end of October 2023. I'm looking to connect with other data scientists and advance my career.
+Data Scientist with a master's degree in Sociology and 5+ years' experience teaching statistics. After multiple years teaching, I felt the pull to build projects of my own. I'm enrolled in TripleTen's 10 month data science bootcamp and am currently learning Python and building machine learning projects. I will be applying to full time data science roles at the end of October 2023. I'm looking to connect with other data scientists and advance my career.
 
 ### Curently Working On
 ⚡ Leveling up on Python and SQL   
