@@ -1,6 +1,6 @@
 ### About Me
 
-Data Scientist with a master's degree in Sociology and 5+ years' experience teaching statistics. After multiple years teaching, I felt the pull to build projects of my own. A graduate of TripleTen's 10 month data science bootcamp, and I am currently deepening my Python expertise and web development skills. Currently applying to full time data science roles as of November 2023. I'm looking to connect with other data scientists and advance my career.
+Hi, I'm Kelly! I'm a Data Scientist with a master's degree in Sociology and 5+ years' experience teaching statistics. After multiple years teaching, I felt the pull to build projects of my own. A graduate of TripleTen's 10 month data science bootcamp, I'm currently deepening my knowledge of Python and web development skills. Currently applying to full time data science roles as of November 2023. I'm looking to connect with other data scientists and advance my career.
 
 ### Curently Working On
 ⚡ Leveling up on Python and SQL   
