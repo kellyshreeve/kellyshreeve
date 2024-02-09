@@ -1,6 +1,6 @@
 ### About Me
 
-Hi, I'm Kelly! I'm a Statistics Tutor turned Data Scientist with a master's degree in sociology and 5+ years' experience teaching statistics. After multiple years teaching, I felt the pull to build projects and of my own. Now a graduate of TripleTen's 10 month data science bootcamp, I'm deepening my knowledge of Python, SQL, and web development. Currently applying to full time data science roles as of January 2024. I'm looking to connect with other data scientists and advance my career.
+Hi, I'm Kelly! I'm a Statistics Tutor turned Data Scientist with an M.A. in sociology, a B.A. in environmental sociology, and 5+ years' experience teaching statistics. After multiple years teaching, I felt the pull back to quantitative research. Now a graduate of TripleTen's 10 month data science bootcamp, I'm looking to harness my experience with environment and food systems to build software and models that improve the lives of people and our planet. My current projects include deepening my knowledge of computer vision, natural language processing, and web deployment. Currently applying to full time data science roles as of February 2024. 
 
 ### Curently Working On
 ⚡ Leveling up on Python and SQL   
