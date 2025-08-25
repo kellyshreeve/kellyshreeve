@@ -1,8 +1,8 @@
 ### About Me
 
-Hi, I'm Kelly! I'm a statistics tutor turned data scientist with an M.A. in sociology, a B.A. in environmental sociology, and 5+ years' experience teaching statistics. After multiple years teaching, I felt the pull back to quantitative research. Now a graduate of TripleTen's 9 month data science bootcamp, I'm looking to harness my experience with environment and food systems to build software and models that improve the lives of people and our planet.  
+Hi, I'm Kelly! A data scientist with an M.A. in sociology, a B.A. in environmental sociology, and 5+ years' experience teaching statistics. Harnessing experience with environmental justice and food systems to build software and models that improve the lives of people and our planet.  
 
-My current projects include deepening my knowledge of computer vision, natural language processing, and web deployment. Currently accepting data analysis and statistics consulting projects May 2024. 
+My current projects include deepening my knowledge of computer vision, natural language processing, and web deployment. 
 
 ### Curently Working On
 🌱 Computer vision web applications that identify diverse landscapes.  
@@ -15,7 +15,7 @@ My current projects include deepening my knowledge of computer vision, natural l
 * SQL
 
 Email: kelly.shreeve@gmail.com  
-LinkedIn: www.linkedin.com/in/kelly-shreeve-statistics
+LinkedIn: www.linkedin.com/in/kelly-shreeve-data-science
 
 <!--
 **kellyshreeve/kellyshreeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
